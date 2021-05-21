@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "authentication-winforms", "authentication-winforms\authentication-winforms.vcxproj", "{BCAD0AB3-F8EF-4D4A-8A0A-074921007867}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCAD0AB3-F8EF-4D4A-8A0A-074921007867}.Debug|x64.ActiveCfg = Debug|x64
+		{BCAD0AB3-F8EF-4D4A-8A0A-074921007867}.Debug|x64.Build.0 = Debug|x64
+		{BCAD0AB3-F8EF-4D4A-8A0A-074921007867}.Debug|x86.ActiveCfg = Debug|Win32
+		{BCAD0AB3-F8EF-4D4A-8A0A-074921007867}.Debug|x86.Build.0 = Debug|Win32
+		{BCAD0AB3-F8EF-4D4A-8A0A-074921007867}.Release|x64.ActiveCfg = Release|x64
+		{BCAD0AB3-F8EF-4D4A-8A0A-074921007867}.Release|x64.Build.0 = Release|x64
+		{BCAD0AB3-F8EF-4D4A-8A0A-074921007867}.Release|x86.ActiveCfg = Release|Win32
+		{BCAD0AB3-F8EF-4D4A-8A0A-074921007867}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF5BA7D2-83C4-45D7-A8E2-77C17156BD20}
+	EndGlobalSection
+EndGlobal
