@@ -1,4 +1,4 @@
-# Stunning Anime Authentication System in WinForms App w/ MySQL (CLR Visual C++)
+# Stunning Anime Authentication System in WinForms App w/ MySQL (.NET Visual C++)
 
 Basically, UI combined with the functionality & validation of all forms using xampp. 
 
